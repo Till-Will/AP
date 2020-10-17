@@ -1,5 +1,7 @@
 # AP
 Anfänger Praktikum
 
-
-Hi ich bin heftig
+Ich Versuche mal Git zu verwenden
+## Bin net so gut
+    -auf gutem weg
+    -hoffe ich
